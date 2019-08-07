@@ -1,0 +1,24 @@
+html, body {
+   font-family: 'Questrial', sans-serif;
+   background-image: url('https://media1.giphy.com/media/qFR8t2kZZtRkc/giphy.gif?cid=790b76115d498c00695a35672e047812&rid=giphy.gif')
+   background
+}
+
+
+body{
+text-align: center;
+  color:white
+
+
+}
+
+a{
+  color:red
+}
+ h1{
+   text-align:center;
+ }
+
+p{
+  text-align: center;
+}
